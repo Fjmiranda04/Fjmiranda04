@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [SDGDRC](https://github.com/Fjmiranda04/SDGDRC.git)
 
-- 🌱 Actualmente estoy aprendiendo **Frameworks,NoSQL**
+- 🌱 Actualmente estoy aprendiendo **Frameworks, NoSQL**
 
 - 💬 Puedes preguntarme por **C#, Java, PHP, Python**
 
